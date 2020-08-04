@@ -10,7 +10,7 @@
 <p align="center">
     <img alt="npm" src="https://img.shields.io/npm/v/npm?color=%23FF0000">
     <img alt="node" src="https://img.shields.io/badge/node-v12.18.3-brightgreen" />
-    <img alt="expo" src="https://img.shields.io/badge/expo-v3.21.5-lightgrey" />
+    <img alt="expo" src="https://img.shields.io/badge/expo-v3.23.1-lightgrey" />
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sousapedro11/proffy" />
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sousapedro11/proffy" />
     <!-- <a target="_blank" href="https://wakatime.com/@saousapedro11/projects/wemoihugzf?start=2020-06-01&end=2020-06-07">
