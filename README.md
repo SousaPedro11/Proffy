@@ -128,7 +128,7 @@ $ npm start
 
 ---
 
-Made with <img style="margin: 0 auto" src="file:///home/pedro/Documentos/sousapedro11/images/heart.gif" height="20"> and :runner: by Pedro Sousa <img style="margin: 0 auto" src="file:///home/pedro/Documentos/sousapedro11/images/hi.gif" height="20"> <a href="https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/" target="_blank">Get in touch!</a>
+Made with <img style="margin: 0 auto" src="https://github.com/SousaPedro11/sousapedro11/blob/master/images/heart.gif" height="20"> and :runner: by Pedro Sousa <img style="margin: 0 auto" src="https://github.com/SousaPedro11/sousapedro11/blob/master/images/hi.gif" height="20"> <a href="https://www.linkedin.com/in/pedro-paulo-lisboa-de-sousa-29143b15b/" target="_blank">Get in touch!</a>
 
 [nodejs]: https://nodejs.org/
 [vc]: https://code.visualstudio.com/
